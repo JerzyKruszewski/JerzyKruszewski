@@ -1,12 +1,8 @@
 # Hi there 👋
 
 ## My GitHub stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JerzyKruszewski&theme=merko&show_icons=true&rank_icon=default&include_all_commits=true&number_format=long" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerzyKruszewski&theme=merko&layout=compact" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerzyKruszewski&theme=merko&show_icons=true&rank_icon=default&include_all_commits=true&number_format=long)
+![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JerzyKruszewski&theme=merko&layout=compact)
 
 <!--
 **JerzyKruszewski/JerzyKruszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
