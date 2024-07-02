@@ -1,8 +1,19 @@
 # Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JerzyKruszewski.JerzyKruszewski)
+
 ## My GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerzyKruszewski&theme=merko&show_icons=true&rank_icon=default&include_all_commits=true&number_format=long)
 ![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JerzyKruszewski&theme=merko&layout=compact)
+
+## Github streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=JerzyKruszewski&theme=merko)](https://git.io/streak-stats)
+
+## My skills
+### Current
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,react,css,bootstrap,html,wasm,docker,visualstudio,vscode,git,github)](https://skillicons.dev)
+### No longer used for any projects
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,angular,postgres,bitbucket)](https://skillicons.dev)
 
 <!--
 **JerzyKruszewski/JerzyKruszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
