@@ -4,6 +4,7 @@
 
 ## My GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JerzyKruszewski&theme=merko&show_icons=true&rank_icon=default&include_all_commits=true&number_format=long)
+![GitHub Percent stats](https://github-readme-stats.vercel.app/api?username=JerzyKruszewski&theme=merko&include_all_commits=true&hide=stars,commits,prs,issues,contribs&rank_icon=percentile&hide_title=true)
 ![Top lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JerzyKruszewski&theme=merko&layout=compact)
 
 ## Github streak:
