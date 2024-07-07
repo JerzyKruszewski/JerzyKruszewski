@@ -16,6 +16,10 @@
 ### No longer used for any projects
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,angular,postgres,bitbucket)](https://skillicons.dev)
 
+## My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/JerzyKruszewski.gif?z=6)](https://github4life.herokuapp.com/JerzyKruszewski)
+
 <!--
 **JerzyKruszewski/JerzyKruszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
