@@ -16,6 +16,9 @@
 ### No longer used for any projects
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,angular,postgres,bitbucket)](https://skillicons.dev)
 
+## Github trophies:
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JerzyKruszewski)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/JerzyKruszewski.gif?z=6)](https://github4life.herokuapp.com/JerzyKruszewski)
