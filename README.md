@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,angular,postgres,bitbucket)](https://skillicons.dev)
 
 ## Github trophies:
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JerzyKruszewski)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JerzyKruszewski&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My GitHub contributions as a Game of Life
 
