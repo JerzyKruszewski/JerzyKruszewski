@@ -12,9 +12,9 @@
 
 ## My skills
 ### Current
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,react,css,bootstrap,html,wasm,docker,kubernetes,azure,visualstudio,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,js,ts,react,css,bootstrap,html,wasm,docker,kubernetes,azure,visualstudio,vscode,git,github)](https://skillicons.dev)
 ### No longer used for any projects
-[![My Skills](https://skillicons.dev/icons?i=java,py,ts,angular,postgres,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,angular,postgres,bitbucket)](https://skillicons.dev)
 
 ## Github trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=JerzyKruszewski&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
